@@ -1,14 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 20 10:06:32 2020
-Policy gradient algorithm, supplemental to the working paper
-'Smart Containers With Bidding Capacity: 
-A Policy Gradient Algorithm for Semi-Cooperative Learning'
-
-@author: W.J.A. van Heeswijk
-"""
-
-"""
 A Policy Gradient Algorithm
 Author: W.J.A. van Heeswijk
 Date: 15-4-2020
@@ -16,6 +7,7 @@ This code is supplemental to the following paper:
 'Smart Containers With Bidding Capacity: 
 A Policy Gradient Algorithm for Semi-Cooperative Learning'
 https://arxiv.org/abs/2005.00565 (2020)
+International Conference on Computational Logistics 2020 (to appear)
 This code has been published under the GNU GPLv3 license
 """
 
